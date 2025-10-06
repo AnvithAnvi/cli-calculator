@@ -127,23 +127,5 @@ GitHub Actions workflow at `.github/workflows/python-app.yml` automatically:
 - GitHub Actions CI
 - Editable install via `pyproject.toml`
 
----
-
-## 🏁 Grading Checklist
-✅ Complete functionality  
-✅ Clean REPL interface  
-✅ Proper modular structure  
-✅ Robust error handling  
-✅ 100 % test coverage  
-✅ GitHub Actions automation  
-✅ Well-documented code  
-
----
-
-## 👨‍💻 Author
-**Your Name**  
-📧 *[vattikutianvith@gmail.com]*  
-
----
 
 > _“Clean code is simple, direct, and tested.”_
