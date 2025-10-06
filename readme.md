@@ -1,5 +1,6 @@
 # 🧮 CLI Calculator (Python)
 ![CI](https://github.com/AnvithAnvi/cli-calculator/actions/workflows/python-app.yml/badge.svg)
+
 A **professional-grade, modular command-line calculator** built in Python.  
 Includes a clean architecture, comprehensive error handling, **100 % test coverage**, and a full **GitHub Actions CI** workflow.
 
